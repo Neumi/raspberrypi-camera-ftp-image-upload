@@ -1,2 +1,3 @@
 # raspberrypi-camera-ftp-image-upload
-Using the raspberry pi camera and python to upload the images from the rpi to a webserver via ftp.
+Using the raspberry pi camera, python and ftp to take and upload images to a webserver.
+
